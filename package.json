@@ -1,0 +1,16 @@
+{
+  "name": "ut5-a21-dpl",
+  "version": "1.0.0",
+  "description": "server con express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ivan da silva martin",
+  "license": "ISC",
+  "dependencies": {
+    "errorhandler": "^1.5.1",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
